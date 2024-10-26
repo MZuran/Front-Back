@@ -1,0 +1,1 @@
+const { realizarQuery } = require('../../modulos/mysql');
